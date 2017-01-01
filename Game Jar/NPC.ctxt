@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ experience\ current_hp\ agility\ defence\ strength\ money\ weapon\ dbase\ dmax
+comment0.target=NPC(java.lang.String,\ double,\ int,\ int,\ int,\ int,\ int,\ Item,\ int,\ int)
+comment1.params=dbase\ dmax
+comment1.target=int\ damageAmount(int,\ int)
+comment2.params=strength\ agility
+comment2.target=int\ healAmount(int,\ int)
+numComments=3

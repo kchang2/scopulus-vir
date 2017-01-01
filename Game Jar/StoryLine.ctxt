@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ history()
+comment0.text=\n\ Tell's\ you\ the\ plot\ or\ storyline,\ the\ purpose\ of\ this\ game.\n\ \n\ Precondition\ -\ Game\ starts\n\ Postcondition\ -\ tells\ the\ story\ of\ the\ game\n
+comment1.params=
+comment1.target=void\ timeLine()
+comment1.text=\n\ At\ the\ great\ history\ center,\ you\ can\ learn\ about\ the\ history\ of\ the\ timeline\n\ \n\ Postcondition\ -\ It\ displays\ the\ history\ in\ chronological\ order\n
+comment2.params=
+comment2.target=void\ analyze()
+comment2.text=\n\ Gives\ each\ character\ and\ their\ pros\ and\ cons\ and\ interesting\ fact\n
+numComments=3

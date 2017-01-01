@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=name\ experience\ current_hp\ agility\ defence\ strength\ money\ weapon\ level\ max_hp\ min_heal\ max_heal
+comment0.target=Companion(java.lang.String,\ double,\ int,\ int,\ int,\ int,\ int,\ Item,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getLevel()
+comment2.params=
+comment2.target=void\ setLevel()
+comment3.params=
+comment3.target=int\ getMaxHP()
+comment4.params=x
+comment4.target=void\ setMaxHP(int)
+comment5.params=max_heal\ min_heal
+comment5.target=int\ healAmount(int,\ int)
+comment5.text=\r\n\ The\ heal\ amount\ method.\ It\ takes\ a\ random\ integer\ using\ your\ max\ -\ your\ min\ +\ your\ min\r\n\ to\ get\ a\ heal\ amount\ ranging\ from\ your\ min_heal\ to\ your\ max_heal\r\n
+comment6.params=strength\ agility
+comment6.target=int\ damageAmount(int,\ int)
+comment6.text=\r\n\ The\ damage\ amount\ method.\ It\ computes\ your\ damage\ amount\ and\ returns\ an\ integer\r\n\ comprising\ of\ your\ damage.\r\n
+numComments=7
