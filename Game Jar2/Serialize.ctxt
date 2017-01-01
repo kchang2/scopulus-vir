@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=hero
+comment0.target=boolean\ saveAccountM(MC)
+comment1.params=fileName\ hero
+comment1.target=boolean\ loadAccount(java.lang.String,\ MC)
+numComments=2

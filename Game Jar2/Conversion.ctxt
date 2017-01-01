@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ setExperience(java.util.ArrayList)
+comment0.text=\r\n\ Sets\ the\ experience\ chart\ for\ each\ level.\ \r\n
+comment1.params=h
+comment1.target=void\ setHealth(java.util.ArrayList)
+comment1.text=\r\n\ Sets\ the\ health\ chart\ in\ the\ arraylist.\ That\ way\ you\ can\ level.\r\n
+comment2.params=hero
+comment2.target=void\ levelCheck(MC)
+comment2.text=\r\n\ Checks\ if\ the\ your\ experience\ is\ enough\ to\ level\ up.\r\n
+comment3.params=hero
+comment3.target=int\ upMaxHP(MC)
+comment3.text=\r\n\ Method\ returns\ amount\ of\ hp\ the\ player\ gets\r\n
+comment4.params=hero
+comment4.target=double\ calculateScore(MC)
+comment4.text=\r\n\ Calculates\ your\ score\ based\ on\ your\ current\ statistics.\r\n
+numComments=5

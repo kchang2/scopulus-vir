@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=name\ ID\ minLevel\ questNumber\ hpbenefit\ healbenefit\ strbenefit\ defbenefit\ agilbenefit\ price\ description
+comment0.target=Weapon(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=hero
+comment1.target=void\ buying(MC)
+comment1.text=\r\n\ The\ weapon\ displays\ the\ weapons\ to\ the\ player\ and\ the\ player\ can\ use\ that\ to\ buy\ equipments\r\n\ and\ what\ not\ to\ improve\ his\ character.\r\n\ Precondition\ -\ Hero\ is\ a\ created\ object\ with\ actual\ value\r\n\ Postcondition\ -\ The\ hero\ ends\ up\ with\ a\ different\ weapon\ or\ has\ the\ same\ weapon\r\n
+comment2.params=w\ hero
+comment2.target=void\ itemSwap(Weapon,\ MC)
+comment2.text=\r\n\ Precondition\ -\ Weapon\ i\ is\ an\ actual\ Weapon\ and\ is\ a\ weapon\r\n\ Postcondition\ -\ The\ weapons\ are\ swapped\r\n
+numComments=3
