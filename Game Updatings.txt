@@ -1,0 +1,33 @@
+NEED TO ADD:
+
+1. Finish adding all quests and Score ticket.
+2. Add reset tool.
+3. Add description to items and characters
+4. Finish the guides.
+5. Change account continuum
+6. Add help button
+7. Link High Scores
+8. Comments
+9. Easier interfaces to be dealt with, slice code
+10. Objective
+
+
+V2.0 = choice of two characters.
+use 0 and 1's
+
+
+ERRORS:
+
+load account is not really working
+
+ACCOUNT TRANSFER AND STUFF
+
+first 1 doesn't count.
+
+set dealt
+
+LOSING COINS IN AN INT
+
+bank - limit
+
+chest for items

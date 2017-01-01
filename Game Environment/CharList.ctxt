@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=hero
+comment0.target=Regular\ chooseOpponent(MC)
+comment0.text=\n\ Chooses\ the\ opponent\ based\ on\ level\n\ returns\ a\ monster\n
+comment1.params=creature\ hero
+comment1.target=Regular\ levelAssign(Regular,\ MC)
+comment1.text=\n\ Assigns\ the\ statistics\ in\ relativity\ to\ your\ hero,\ then\ returns\ the\ regular\n\ monster\n
+numComments=2

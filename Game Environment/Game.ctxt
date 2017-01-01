@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Combines\ all\ the\ methods\ together\ in\ a\ fantastic\ game\n\ This\ game\ encorporates\ all\ the\ methods\ from\ beginning\ to\ end.\n
+comment1.params=
+comment1.target=boolean\ beginning()
+comment1.text=\n\ starts\ the\ game,\ and\ then\ sees\ if\ there\ is\ account.\n\ if\ there\ are\ accounts,\ then\ it\ asks,\ if\ not,\ then\ not\ then\ start\ new\ account\n
+comment2.params=
+comment2.target=void\ setup()
+comment2.text=\n\ Setting\ up\ new\ accounts\ if\ there\ are\ no\ accounts\ or\ if\ you\ want\ to\n\ This\ sets\ up\ a\ new\ account\ which\ you\ can\ save\ to\ one\ of\ the\ two\ given\ slots.\n
+numComments=3

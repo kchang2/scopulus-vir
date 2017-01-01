@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ experience\ current_hp\ agility\ defence\ strength\ money\ weapon
+comment0.target=Opponent(java.lang.String,\ double,\ int,\ int,\ int,\ int,\ int,\ Item)
+comment0.text=\n\ Constructor\ class\ for\ Opponent.\ Opponents\ must\ have\ these\n
+numComments=1
